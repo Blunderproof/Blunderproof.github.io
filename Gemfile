@@ -6,4 +6,4 @@ gem "github-pages", '193', group: :jekyll_plugins
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'jekyll-paginate'
 
-
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
