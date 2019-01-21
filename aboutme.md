@@ -27,6 +27,11 @@ Managers and other significant individuals including the Vice President of Micro
 
 Designed and built a full multiplayer implementation of famous board game with Angular in a team environment
 
+![Screen shot 1](https://Blunderproof.github.io/img/Ticket-to-Ride1.jpg "Hi")
+
+![Screen shot 2](https://Blunderproof.github.io/img/Ticket-to-Ride2.jpg "Hi")
+
+
 Playable: [Here](https://github.com/Blunderproof/340Project) 
 #### Reversi AI Player
 
