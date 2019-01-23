@@ -45,13 +45,13 @@ avatar: "/img/headshot casual.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#E85A4F"
-navbar-text-col: "#f9ECEC"
-navbar-children-col: "#450808"
-page-col: "#EAE7DC"
-link-col: "#D8C3A5"
-hover-col: "#E98074"
-footer-col: "#8E8D8A"
+navbar-col: "#BF360C" #"#E85A4F"
+navbar-text-col: "#E0E0E0"
+navbar-children-col: "#F5F5F5"
+page-col: "#EEEEEE"
+link-col: "#E65100"
+hover-col: "#E64A19"
+footer-col: "#616161"
 footer-text-col: "#f9ECEC"
 footer-link-col: "#404040"
 
@@ -84,10 +84,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+#  rss: false
   email: "eafortney2@gmail.com"
-  facebook: efortney
   github: Blunderproof
+  facebook: eafortney
+
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali

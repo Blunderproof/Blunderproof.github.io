@@ -27,6 +27,10 @@ layout: null
   margin-bottom: 0;
 }
 
+/* Custom -- language list */
+.language-list-item{
+  max-width: 12vw;
+}
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
@@ -188,13 +192,16 @@ img {
   .navbar-custom.top-nav-short {
     padding: 0;
   }
+  .avatar-container{
+    margin-top: 0px !important;
+  }
 }
 
 .navbar-custom .avatar-container {
   position: absolute;
   left: 50%;
   width: 50px;
-  margin-top: -25px;
+  margin-top: 25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
@@ -218,7 +225,6 @@ img {
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
     width: 100px;
-    margin-top: -50px;
   }
 
   .navbar-custom .avatar-container  .avatar-img-border {
