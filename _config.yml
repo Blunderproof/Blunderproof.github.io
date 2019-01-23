@@ -45,15 +45,15 @@ avatar: "/img/headshot casual.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#BF360C" #"#E85A4F"
-navbar-text-col: "#E0E0E0"
-navbar-children-col: "#F5F5F5"
+navbar-col: "#3a4660" #"#BF360C" #"#E85A4F"
+navbar-text-col: "#c9af98"
+navbar-children-col: "#93765b"
 page-col: "#EEEEEE"
-link-col: "#E65100"
-hover-col: "#E64A19"
-footer-col: "#616161"
-footer-text-col: "#f9ECEC"
-footer-link-col: "#404040"
+link-col: "#c9af98"
+hover-col: "#f2ddcb"
+footer-col: "#555760"
+footer-text-col: "#d3b68d"
+footer-link-col: "#514c48"
 
 # navbar-col: "#821717"
 # navbar-text-col: "#f9ecec"
