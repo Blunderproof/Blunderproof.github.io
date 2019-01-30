@@ -232,7 +232,7 @@ Anticipated Graduation April 2020.
         </button>
       </div>
       <div class="modal-body">
-        Neato
+        A competitive AI that, in practice, beat 87% of moderate human players. Fundamentally based on an Alpha-Beta Pruning Model with a number of dynamic heuristics guiding play. Can be played locally with Java installed.
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -243,8 +243,8 @@ Anticipated Graduation April 2020.
 </div>
 
 <!-- Ticket to Ride Project Modal -->
-<div class="modal fade" id="TicketProjectModal" tabindex="-1" role="dialog" aria-labelledby="ticketModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
+<div class="modal fade bd-example-modal-lg" id="ticketProjectModal" tabindex="-1" role="dialog" aria-labelledby="ticketModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="modal-title" id="exampleModalLabel">Ticket to Ride</h5>
@@ -253,7 +253,45 @@ Anticipated Graduation April 2020.
         </button>
       </div>
       <div class="modal-body">
-        Neato
+        <!-- Carousel Images -->
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img class="d-block w-100" src="/img/Ticket-to-Ride1.jpg" alt="First slide">
+             <div class="carousel-caption d-none d-md-block">
+                <h5 style="color: gray">Modern UI with standard industry features</h5>
+                <p></p>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="/img/Ticket-to-Ride2.jpg" alt="Second slide">
+              <div class="carousel-caption d-none d-md-block">
+                <h5>Interactive Map for more Immersive Play</h5>
+                <p></p>
+              </div>
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+        <h6 class="text-center pt-3"> Full fledged multiplayer online game based on the famous board game Ticket to Ride.</h6>
+        <div class="text-center">
+        <p>
+         Sadly due to the hosting costs I do not have a live demo up.</p>
+         <p>
+         All original art assets I developed myself.
+        </p>
+        </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
